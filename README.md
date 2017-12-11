@@ -1,4 +1,6 @@
-<u><h1>Title:</h1></u>
+
+
+<h1 style="text-decoration: underline !important;">Title:</h1>
 
 <h2>"The genome sequence of the wild tomato <em>Solanum pimpinellifolium</em> provides insights into salinity tolerance"</h2>
 
