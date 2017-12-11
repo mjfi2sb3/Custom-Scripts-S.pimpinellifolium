@@ -1,7 +1,4 @@
-# Custom scripts that were used in some of the analyses done on <em>Solanum pimpinellifolium</em> draft genome
-
-
-<h3>Title:</h3><h4>"The genome sequence of the wild tomato Solanum pimpinellifolium provides insights into salinity tolerance"</h4>
+<h1>Title:</h1><h2>"The genome sequence of the wild tomato <em>Solanum pimpinellifolium</em> provides insights into salinity tolerance"</h2>
 <h5>Available on bioRxiv https://doi.org/10.1101/215517</h5>
 
 <br><br>
